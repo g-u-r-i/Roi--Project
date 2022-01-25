@@ -1,0 +1,22 @@
+.roi{
+    font-weight: bold;
+    font-size: 25px;
+}
+input{
+    width: 90%;
+    height: 40px;
+   border-radius: 10px;
+   text-align: right;
+    
+}
+.fas{
+    font-size: 25px;
+     margin-left:79%;
+     margin-bottom: 01px;
+     }
+     #c{
+        margin-left: 80%;
+        }
+.one{
+    margin-left:0% ;
+}

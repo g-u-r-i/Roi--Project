@@ -1,0 +1,29 @@
+input{
+    width: 87%;
+    height: 40px;
+   border-radius: 10px;
+   text-align: right;
+    
+}
+.static-value{
+    position:relative;
+    font-weight: bold;
+    margin-right: 10px;
+   
+}
+.fa{
+    font-size: 25px;
+    margin-left:70%;
+
+}
+    button {
+        border-radius: 12px;
+        padding: 10px;
+        margin-bottom: 1%;
+        margin-right: 11%; 
+            width: 100px;
+        
+    }
+    #ri{
+        margin-left:75%;
+    }
